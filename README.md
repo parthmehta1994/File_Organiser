@@ -11,7 +11,7 @@ This Python script helps in organizing files into respective folders based on th
      ```
    - Install the required dependencies:
      ```
-     pip install watchdogs
+     pip install watchdog
      ```
 
 2. **Execution**:
