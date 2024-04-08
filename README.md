@@ -34,9 +34,9 @@ Copy code
 
 ### Usage
 
-1. Run the script by executing the `main.py` file:
+1. Run the script by executing the `FileOrganiser.py` file:
 
-python main.py
+python FileOrganiser.py
 
 markdown
 Copy code
@@ -45,7 +45,7 @@ Copy code
 
 ### Customization
 
-You can customize the categories and corresponding file extensions by editing the `organize_files()` method in the `FileOrganiser` class within `main.py`.
+You can customize the categories and corresponding file extensions by editing the `organize_files()` method in the `FileOrganiser` class within `FileOrganiser.py`.
 
 ## Example
 
