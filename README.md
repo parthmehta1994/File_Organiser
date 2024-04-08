@@ -22,8 +22,6 @@ File Organiser is a Python script designed to help you organize your files autom
 
 git clone https://github.com/your-username/file-organiser.git
 
-css
-Copy code
 
 2. Navigate to the project directory:
 
@@ -51,23 +49,20 @@ You can customize the categories and corresponding file extensions by editing th
 
 Suppose you have a directory named `Downloads` containing various files:
 
-Downloads/
+Downloads /
 ├── document1.txt
 ├── music.mp3
 ├── image.jpg
 └── archive.zip
 
-sql
-Copy code
-
 Running the `FileOrganiser` script would result in the following directory structure:
 
-Downloads/
-├── Documents/
+Downloads /
+├── Documents /
 │ └── document1.txt
-├── Music/
+├── Music /
 │ └── music.mp3
-├── Images/
+├── Images /
 │ └── image.jpg
-└── Archives/
+└── Archives /
 └── archive.zip
